@@ -38,13 +38,14 @@ Learn more about git from [freecodecamp](https://www.freecodecamp.org/news/under
 
 # Challenge 
 Create an application with the following feature
-User shoud be able to create list of people with their names and phone numbers
-user should be able to display list of people in form of cards with a picture, their name and phone number
-User shoud be able to delete person from list
-User should be able to edit person `phone number and name`
+- User shoud be able to create list of people with their names and phone numbers
+- user should be able to display list of people in form of cards with a picture, their name and phone number
+- User shoud be able to delete person from list
+- User should be able to edit person `phone number and name`
 
 **Additional info**
 Tools: React hooks
+[React router dom](https://reactrouter.com/en/main/start/overview)
 Fetch the photos from [here](https://jsonplaceholder.typicode.com/photos)
 You can use [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) and css [grid](https://css-tricks.com/snippets/css/complete-guide-grid/) to build webpages 
 Push every change to github repository
