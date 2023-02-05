@@ -6,6 +6,7 @@ function App() {
   const [count, setCount] = useState(0); // COUNT = O
   
   const [photos, setPhotos] = useState();
+  
   const myObject = {
     title: "title",
     body: "body",
