@@ -30,5 +30,6 @@ git clone REMOTE_URL
 - git branch: list branches you have in your repository
 - git checkout branch_name: helps to switch from one branch to another
 - git checkout -b new_branch_name: Creates new branch
+- git merge branch_name: Combining changes from another branch to current branch
 
 Learn more about git from [freecodecamp](https://www.freecodecamp.org/news/understanding-git-basics-commands-tips-tricks/) and [atlasian](https://www.atlassian.com/git/glossary)
